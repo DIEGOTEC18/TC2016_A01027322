@@ -1,0 +1,4 @@
+N001¬N002¬N003¬N138¬N740¬N175¬N443¬N234¬
+Texto1¬Texto2¬Texto3¬Test138¬testeo¬EditedNote175¬This is a cool Note¬This is another cool note.¬
+N001¬N138¬N175¬
+OldTextN001¬Jejeje¬Test175¬

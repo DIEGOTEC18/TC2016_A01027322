@@ -1,0 +1,4 @@
+N100
+Esta es una nota de otro repo.
+N100
+Esta es una versión antigua de la nota N100.

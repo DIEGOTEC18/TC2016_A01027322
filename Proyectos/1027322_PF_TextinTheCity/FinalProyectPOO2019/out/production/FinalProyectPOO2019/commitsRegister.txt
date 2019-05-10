@@ -1,0 +1,3 @@
+C001¬C002¬C684¬C519¬C578¬C935¬
+yyyy-MM-dd at HH:mm z¬yyyy-MM-dd at HH:mm z¬2019-05-09 at 21:57 CDT¬2019-05-09 at 21:59 CDT¬2019-05-10 at 11:15 CDT¬2019-05-10 at 12:27 CDT¬
+Este fue el primer commit de prueba¬Este fue el segundo¬This is my message¬Another test¬Este es un gran commit¬N932 new note¬
